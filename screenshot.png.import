@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c6rc8212htolt"
-path="res://.godot/imported/front.png-1910cd1fef6d4d69506093c3fc575cf7.ctex"
+uid="uid://cej6ni2vr0f0o"
+path="res://.godot/imported/screenshot.png-024a21af5d37bf0f0dd0e2bccdd149d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/wwwtyro.github.io/skybox/front.png"
-dest_files=["res://.godot/imported/front.png-1910cd1fef6d4d69506093c3fc575cf7.ctex"]
+source_file="res://screenshot.png"
+dest_files=["res://.godot/imported/screenshot.png-024a21af5d37bf0f0dd0e2bccdd149d0.ctex"]
 
 [params]
 
