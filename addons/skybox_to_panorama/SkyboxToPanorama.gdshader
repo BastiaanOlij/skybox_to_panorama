@@ -9,14 +9,14 @@ uniform sampler2D BottomTexture;
 
 void fragment() {
 	vec3 dir = vec3(0.0);
-	float PI = 3.14159265359;
+	// float PI = 3.14159265359;
 	float rot_y = UV.x * PI * 2.0;
 	float rot_z = UV.y * PI;
-	
+
 	dir.x = sin(rot_z) * sin(rot_y);
 	dir.y = cos(rot_z);
 	dir.z = sin(rot_z) * cos(rot_y);
-	
+
 	vec3 abs_dir = abs(dir);
 	if ((abs_dir.x > abs_dir.y) && (abs_dir.x > abs_dir.z)) {
 		// X is biggest, use forward

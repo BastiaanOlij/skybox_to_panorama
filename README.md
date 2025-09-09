@@ -1,3 +1,14 @@
+![Screenshot](screenshot.png)
+
+Updated for Godot v4.4.1.stable.official [49a5bc7b6]
+
+Note, some Skybox Packages get the Left/Right named the wrong-way-round, swap these if you find strange borders in your results.
+
+---
+
+Cloned from https://github.com/BastiaanOlij/skybox_to_panorama
+Original README follows:
+
 # Skybox to panorama
 
 ![Screenshot](screenshot.png)
